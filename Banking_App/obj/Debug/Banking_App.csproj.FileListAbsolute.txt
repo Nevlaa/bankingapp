@@ -1,0 +1,5 @@
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C#.NET\PRG321\Banking_App\Banking_App\Banking_App\obj\Debug\Banking_App.csproj.CoreCompileInputs.cache
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C#.NET\PRG321\Banking_App\Banking_App\Banking_App\bin\Debug\Banking_App.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C#.NET\PRG321\Banking_App\Banking_App\Banking_App\bin\Debug\Banking_App.pdb
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C#.NET\PRG321\Banking_App\Banking_App\Banking_App\obj\Debug\Banking_App.dll
+C:\Users\shors\OneDrive\Desktop\Classes__By__Language\C#.NET\PRG321\Banking_App\Banking_App\Banking_App\obj\Debug\Banking_App.pdb
